@@ -1,2 +1,4 @@
 # college-enquiry-chatbot
-a simple python based chatbot for college related quiries
+day1: a simple python based chatbot for college related quiries.
+Day2: data-driven via qa.json not just if else loops.
+Day3: better matching + unknowns log.
